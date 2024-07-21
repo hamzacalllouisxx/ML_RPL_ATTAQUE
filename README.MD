@@ -1,4 +1,7 @@
 Introduction
+
+
+
 Ce projet est une application web Streamlit pour l'analyse des fichiers CSV et la comparaison des performances des algorithmes K-Nearest Neighbors (KNN) et Random Forest dans la détection des attaques dans les environnements IoT. L'application traite les fichiers CSV pour extraire des fonctionnalités, visualise les données et effectue des classifications en utilisant les algorithmes KNN et Random Forest. Les résultats sont affichés avec diverses visualisations pour aider à comprendre les données et les performances des modèles.
 
 Prérequis
